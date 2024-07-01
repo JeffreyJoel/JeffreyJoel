@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JeffreyJoel
-- 👀 I’m interested in building Web/mobile applications, as well as working with Blockchain technology.
-
+- 👀 I’m interested in building decentralized Web and mobile applications.
 - 📫 How to reach me jeffowoloko@gmail.com
 
 <!---
